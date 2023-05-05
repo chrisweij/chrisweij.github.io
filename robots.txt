@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://chrisweij.github.io/al-folio/sitemap.xml
+Sitemap: https://chrisweij.github.io/sitemap.xml
