@@ -1,8 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - chrisweij
 
 github_repos:
+  - chrisweij/CyClust
+  - WAM2layers/WAM2layers
   - alshedivat/al-folio
   - twbs/bootstrap
   - jekyll/jekyll
