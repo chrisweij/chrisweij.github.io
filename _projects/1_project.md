@@ -1,11 +1,22 @@
 ---
 layout: page
-title: project 1
+title: Weather briefings
 description: a project with a background image
 img: assets/img/12.jpg
 importance: 1
 category: work
 ---
+
+Every month there is a weather briefing co-organized by MAQ (Meteorology and Air Quality) and Infoplaza. The agenda for the coming events (including Teams Link) can be found below. In these weather briefings interesting weather events will be discussed and explained. 
+
+---
+layout: page
+title: project
+description: a project with a background image
+img: /assets/img/12.jpg
+---
+
+
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
