@@ -2,7 +2,7 @@
 layout: page
 title: Weather briefings
 description: a project with a background image
-img: assets/img/Poly_Satellite.jpg
+img: assets/img/Poly_Satellite.jpeg
 importance: 1
 category: work
 ---
