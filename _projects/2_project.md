@@ -1,17 +1,15 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
+title: Mechanisms behind cyclone clustering
+description: PhD thesis of Thomas Batelaan, on the mechanisms behind cyclone clustering. 
 img: assets/img/3.jpg
 importance: 2
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Cyclone clustering, the swift succession of extratropical cyclones in a short amount of time, has a huge impact on society. However, it is not completely understood yet. On one side, extratropical cyclones grow by baroclinic instability, thereby reducing the large-scale baroclnicity (temperature gradient). On the other side extratropical cyclones should also replenish this baroclinicity, to ensure that extratropical cyclones can keep on forming. One hypothesis could be that latent heating is important in re-establishing the temperature gradient. 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+In the PhD thesis of Thomas Batelaan, we will look in more detail on the mechanisms behind cyclone clustering. He will perform idealised simulations with the OpenIFS model in which the latent heating is shut off. 
 
     ---
     layout: page
