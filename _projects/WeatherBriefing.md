@@ -12,13 +12,10 @@ Every month there is a weather briefing co-organized by MAQ (Meteorology and Air
 
 | Date        | Location    | Teams Link|
 | ----------- | ----------- | -----------|
-| 19/10      | Lumen 1       | |
-| 23/11   | Atlas 1        | |
-| 18/12   | Gaia 1        | |
-
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+| 19/10       | Lumen 1     | |
+| 23/11       | Atlas 1     | |
+| 18/12       | Gaia 1      | |
+|-------------|-------------| |
 
 
 <div class="row">
