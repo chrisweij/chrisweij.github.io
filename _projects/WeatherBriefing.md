@@ -15,8 +15,9 @@ Every month there is a weather briefing co-organized by MAQ (Meteorology and Air
 | 19/10       | Lumen 1     | |
 | 23/11       | Atlas 1     | |
 | 18/12       | Gaia 1      | |
-|-------------|-------------| |
-
+| 11/01/24    | Lumen 2     | |
+| 08/02/24    | Gaia 2      | |
+| 07/03/24    | Gaia 1      | |
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
