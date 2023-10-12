@@ -23,4 +23,3 @@ I am Chris Weijenborg, an assistant professor at Wageningen University and Resea
 
 If you are interested in doing a (master) thesis with me, please connect via email.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
