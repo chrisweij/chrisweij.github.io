@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Wageningen University and Research</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Wageningen University and Research</a>. 
 
 profile:
   align: right
