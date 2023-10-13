@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Weather briefings
-description: a project with a background image
+description: 
 img: assets/img/Poly_Satellite.jpeg
 importance: 1
 category: work
@@ -12,8 +12,8 @@ Every month there is a weather briefing co-organized by MAQ (Meteorology and Air
 
 | Date        | Location    | Teams Link|
 | ----------- | ----------- | -----------|
-| 19/10       | Lumen 1     | |
-| 23/11       | Atlas 1     | |
+| 19/10       | Lumen 1     | https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjAyNDBmNjktODMyZS00NTg1LWI1Y2MtZWMyYzBiMWUxYjNk%40thread.v2/0?context=%7b%22Tid%22%3a%2227d137e5-761f-4dc1-af88-d26430abb18f%22%2c%22Oid%22%3a%22831edf4e-8261-40c3-87db-df60c6de1b50%22%7d |
+| 23/11       | Atlas 1     | |https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTNiYWY1YzktYjIwZi00ZmU2LTk4ODEtNzE0OTJiNmIxNzgy%40thread.v2/0?context=%7b%22Tid%22%3a%2227d137e5-761f-4dc1-af88-d26430abb18f%22%2c%22Oid%22%3a%22831edf4e-8261-40c3-87db-df60c6de1b50%22%7d |
 | 18/12       | Gaia 1      | |
 | 11/01/24    | Lumen 2     | |
 | 08/02/24    | Gaia 2      | |
