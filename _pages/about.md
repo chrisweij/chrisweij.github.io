@@ -12,6 +12,7 @@ profile:
     <p>LA 135</p>
     <p>Lumen Building (Droevendaalsesteeg 3)</p>
     <p>Wageningen University and Research</p>
+    <p>chris.weijenborg at wur.nl</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
