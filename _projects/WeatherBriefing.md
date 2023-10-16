@@ -9,6 +9,7 @@ category: work
 
 Every month there is a weather briefing co-organized by MAQ (Meteorology and Air Quality) and Infoplaza. The agenda for the coming events (including Teams Link) can be found below. In these weather briefings interesting weather events will be discussed and explained. 
 
+The weather briefings start at 13:15, unless otherwise indicated.
 
 | Date        | Location    | Teams Link|
 | ----------- | ----------- | -----------|
