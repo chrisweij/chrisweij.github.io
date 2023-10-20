@@ -2,7 +2,7 @@
 layout: page
 title: Mechanisms behind cyclone clustering
 description: PhD thesis of Thomas Batelaan, on the mechanisms behind cyclone clustering. 
-img: assets/img/3.jpg
+img: assets/img/MSLP_precip_80.jpg
 importance: 2
 category: work
 ---
