@@ -11,9 +11,4 @@ Cyclone clustering, the swift succession of extratropical cyclones in a short am
 
 In the PhD thesis of Thomas Batelaan, we will look in more detail on the mechanisms behind cyclone clustering. He will perform idealised simulations with the OpenIFS model in which the latent heating is shut off. 
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+{% video /assets/animation/CLUSTER2022.mp4 720 480 /assets/img/MSLP_precip_0.png %}
