@@ -11,5 +11,5 @@ Cyclone clustering, the swift succession of extratropical cyclones in a short am
 
 In the PhD thesis of Thomas Batelaan, we will look in more detail on the mechanisms behind cyclone clustering. To test if latent plays a role in re-establishing the temperature gradient, he will perform idealised simulations of the February 2022 clustering case, which lead to damage in the UK and the Netherlands (see animation below). He uses the OpenIFS model in which the latent heating is shut off. 
 
-{% video /assets/animation/CLUSTER2022.mp4 1008 605 /assets/img/MSLP_precip_0.png %}
+{% video /assets/animation/CLUSTER2022.mp4 800 480 /assets/img/MSLP_precip_0.png %}
 *Clustering during February 2022 (mean sea level pressure indicated by black lines, and precipitation in mm/hour in shading)*
