@@ -20,7 +20,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am Chris Weijenborg, an assistant professor at Wageningen University and Research. My research focusses on large-scale atmospheric dynamics in the midlatitudes. Currently I am mostly working on entangling the mechanisms behind cyclone clustering. I also generated a detection algorithm on cyclone clustering, some prelimanary results can be found in the blog section. 
+I am Chris Weijenborg, an assistant professor at Wageningen University and Research. My research focusses on large-scale atmospheric dynamics in the midlatitudes. Currently I am mostly working on entangling the mechanisms behind cyclone clustering. I also generated a detection algorithm on cyclone clustering, some prelimanary results can be found in the blog section. My broader interests include the influence of diabatic heating on the storm tracks and cyclones.  
 
 If you are interested in doing a (master) thesis with me, please connect via email.
 
